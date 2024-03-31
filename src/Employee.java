@@ -35,6 +35,6 @@ public class Employee {
     public void displayEmployeeDetails() {
         System.out.println("Employee Name: " + name);
         System.out.println("Position: " + position);
-        System.out.println("Salary: $" + salary);
+        System.out.println("Salary: OMR" + salary);
     }
 }
